@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Módulo para agregar o actualizar una clave/valor en un diccionario."""
+"""Módulo para actualizar o agregar claves en diccionarios."""
 
 
 def update_dictionary(a_dictionary, key, value):
-    """Reemplaza o agrega un par clave/valor en el diccionario y lo devuelve."""
+    """Actualiza o agrega un par clave/valor en el diccionario."""
     a_dictionary[key] = value
     return a_dictionary
