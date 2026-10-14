@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Módulo que realiza operaciones básicas usando calculator_1."""
+"""Módulo que realiza operaciones aritméticas básicas."""
 from calculator_1 import add, sub, mul, div
 
 if __name__ == "__main__":
