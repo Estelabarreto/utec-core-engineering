@@ -3,7 +3,7 @@
 
 
 def element_at(my_list, idx):
-    """Devuelve el elemento en la posición idx, o None si es inválido o negativo."""
+    """Devuelve el elemento en idx, o None si es inválido."""
     if idx < 0 or idx >= len(my_list):
         return None
     return my_list[idx]
