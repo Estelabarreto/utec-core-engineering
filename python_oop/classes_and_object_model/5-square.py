@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
-"""Definición de la clase Square con método my_print para imprimir el cuadrado."""
+"""Definición de la clase Square con
+método my_print para imprimir el cuadrado.
+"""
 
 
 class Square:
-    """Representa un cuadrado con validación de tamaño, área y método de impresión."""
+    """Representa un cuadrado con validación
+    de tamaño, área y método de impresión.
+    """
 
     def __init__(self, size=0):
         """Inicializa un cuadrado con un tamaño validado.
