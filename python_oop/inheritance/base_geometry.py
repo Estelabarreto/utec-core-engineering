@@ -11,7 +11,7 @@ class BaseGeometry:
         """Método que calcula el área de la figura geométrica.
 
         Raises:
-            Exception: Indica que el método no está implementado en la clase base.
+            Exception: Indica que el método no está implementado.
         """
         raise Exception("area() is not implemented")
 
